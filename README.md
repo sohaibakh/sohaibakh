@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,50:0F172A,100:2563EB&text=Hi%20there%20👋&fontColor=FFFFFF&fontSize=48&fontAlignY=38&animation=fadeIn" />
+<img width="100%" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=38&duration=2000&pause=500&color=2563EB&center=true&vCenter=true&width=1000&height=200&lines=SELECT+*+FROM+dev+WHERE+name+%3D+'Sohaib';Console.log('Building+Scalable+Systems');System.out.println('AI+Agents+Deploying...');Hello+World!+I'm+Sohaib+👋" />
 
 <h1>
 Full-Stack Developer & Systems Architect focused on building scalable backends, immersive web experiences, and autonomous AI pipelines.
