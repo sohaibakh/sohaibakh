@@ -19,16 +19,6 @@ Full-Stack Developer & Systems Architect focused on building scalable backends, 
 
 <br />
 
-<div align="center">
-
-<a href="https://github.com/sohaibakh">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=sohaibakh&show_icons=true&theme=dark&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=2563EB&text_color=FFFFFF" alt="sohaibakh's GitHub Stats" />
-</a>
-<a href="https://github.com/sohaibakh">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohaibakh&layout=compact&theme=dark&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=FFFFFF" alt="sohaibakh's Top Languages" />
-</a>
-
-</div>
 
 ---
 
