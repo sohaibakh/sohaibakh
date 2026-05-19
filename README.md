@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=220&color=050816&text=Hi%20there%20👋&fontColor=FFFFFF&fontSize=48&fontAlignY=45&desc=Full-Stack%20%7C%20AI%20Systems%20%7C%20WebGL&descAlignY=65&descSize=18&descColor=38BDF8&stroke=2563EB&strokeWidth=2&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hi%20there%20👋&fontColor=FFFFFF&fontSize=48&fontAlignY=38&animation=fadeIn" />
 
 <h1>
 Full-Stack Developer & Systems Architect focused on building scalable backends, immersive web experiences, and autonomous AI pipelines.
